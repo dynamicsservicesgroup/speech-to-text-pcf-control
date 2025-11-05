@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest>
+  <control namespace="SpeechToText" constructor="SpeechToTextControl" version="0.0.2" display-name-key="SpeechToTextControl" description-key="SpeechToTextControl description" control-type="standard" >
+    <external-service-usage enabled="false">
+    </external-service-usage>
+    <property name="transcribedText" display-name-key="Transcribed Text" description-key="The transcribed text from speech" of-type="Multiple" usage="bound" required="true" />
+    <resources>
+      <code path="index.ts" order="1"/>
+      <css path="css/SpeechToTextControl.css" order="1" />
+    </resources>
+  </control>
+</manifest>
