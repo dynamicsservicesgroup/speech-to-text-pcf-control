@@ -1,0 +1,2 @@
+D:\Dynamics 365\DSG\Speech to Text PCF Control\obj\Debug\Speech to Text PCF Control.pcfproj.AssemblyReference.cache
+D:\Dynamics 365\DSG\Speech to Text PCF Control\obj\Debug\Speech to Text PCF Control.pcfproj.CoreCompileInputs.cache

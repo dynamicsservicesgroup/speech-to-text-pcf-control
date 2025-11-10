@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Dynamics 365\\DSG\\Speech to Text PCF Control\\Speech to Text PCF Control.pcfproj": {}
+  },
+  "projects": {
+    "D:\\Dynamics 365\\DSG\\Speech to Text PCF Control\\Speech to Text PCF Control.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Dynamics 365\\DSG\\Speech to Text PCF Control\\Speech to Text PCF Control.pcfproj",
+        "projectName": "Speech to Text PCF Control",
+        "projectPath": "D:\\Dynamics 365\\DSG\\Speech to Text PCF Control\\Speech to Text PCF Control.pcfproj",
+        "packagesPath": "C:\\Users\\rajpr\\.nuget\\packages\\",
+        "outputPath": "D:\\Dynamics 365\\DSG\\Speech to Text PCF Control\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajpr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://repo.didisoft.com/repository/nuget/": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

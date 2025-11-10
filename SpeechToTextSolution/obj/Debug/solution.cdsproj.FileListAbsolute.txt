@@ -1,0 +1,2 @@
+D:\Dynamics 365\DSG\Speech to Text PCF Control\solution\obj\Debug\solution.cdsproj.CoreCompileInputs.cache
+D:\Dynamics 365\DSG\Speech to Text PCF Control\SpeechToTextSolution\obj\Debug\solution.cdsproj.CoreCompileInputs.cache

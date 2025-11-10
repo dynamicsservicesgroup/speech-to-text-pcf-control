@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TfUkhz/KGkTOmRlyuXasTSACF1B58ac33fimNczAvwJ5KdC/O4xOz1KOO5zJDUXjwJP3h5RXc5oy/1zDGakgWg==",
+  "success": true,
+  "projectFilePath": "D:\\Dynamics 365\\DSG\\Speech to Text PCF Control\\Speech to Text PCF Control.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rajpr\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\rajpr\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\rajpr\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.50.1\\microsoft.powerapps.msbuild.pcf.1.50.1.nupkg.sha512"
+  ],
+  "logs": []
+}
